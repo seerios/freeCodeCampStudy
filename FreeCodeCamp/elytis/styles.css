@@ -1,0 +1,40 @@
+
+
+body{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    display: block;
+    text-align: center;
+
+}
+
+#main {
+    width: 80%;
+    margin: auto;
+    display: block;
+    text-align: center;
+
+}
+
+
+
+#img-div {
+    display: block;
+    text-align: center;
+
+    
+}
+
+#image {
+    width: 300px;
+    height: auto;
+    max-width: 100%;
+    display: block; 
+    
+}
+
+#tribute-info {
+    width: 50%;
+    margin: auto;
+}
